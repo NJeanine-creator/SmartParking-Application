@@ -2,12 +2,7 @@
 
 ## Author name 
 
-Clarisse Uwizeyimana
-Olivia Missy 
-Belyze Uwambayinema
-Bendah Uwitonze
-Murielle Iribori
-Stella Marlyne Igihozo
+Jeanine NISHIMWE
 
 ## Description of project:
 
@@ -21,7 +16,7 @@ Information MIT license and Copyright@2020
 
 ## Contact
 
-That is the contact in case you want to contact. Email: cuwizeyimana3924@gmail.com
+That is the contact in case you want to contact. Email: jnishimwe321@gmail.com
 
 ## Available  near by parking on GPS OR as a list Page
 
